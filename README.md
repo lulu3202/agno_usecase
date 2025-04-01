@@ -7,6 +7,7 @@ The project includes:
 2. **Streamlit Web Application**
 3. **Local AGNO Playground Interface**
 
+```
 ## Project Structure
 agno_usecase/
 ├── python_withgif.py    # Core agent implementation
@@ -15,7 +16,7 @@ agno_usecase/
 ├── .env                 # Environment variables
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
-
+```
 
 ## Components
 
