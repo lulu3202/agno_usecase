@@ -25,17 +25,21 @@ The core agents include:
 - **GitHub Code Agent**: GitHub code search
 - **Giphy Agent**: GIF integration
 
-### 2. Streamlit App (app.py)
+### 2. AGNO Playground (playground.py)
+- Local testing interface for agents
+- Debugging, tool monitoring, and agent behavior verification
+
+![Screenshot](assets/playground.png)
+
+### 3. Streamlit App (app.py)
 - Interactive chat interface
 - Real-time responses with text, code, and GIFs
 - User-friendly input and response history
 
-### 3. AGNO Playground (playground.py)
-- Local testing interface for agents
-- Debugging, tool monitoring, and agent behavior verification
+![Screenshot](assets/streamlit.png)
+
 
 ## Steps:
-
 1. Set up a virtual environment 
 `conda create -p venv python==3.12`
 
